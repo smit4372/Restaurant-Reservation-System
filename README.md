@@ -89,8 +89,13 @@ A video walkthrough of the project is available in the repository.
 This project was created as part of an academic assignment. Any unauthorized copying, sharing, or use for cheating purposes is strictly prohibited. Please respect academic integrity.
 
 ## Contributors
-* **Your Name** - Developer and project contributor
-* **Friend's Name** - Developer and project contributor
+* **Smit Desai** - Developer and project contributor
+[GitHub Profile](https://github.com/sdesai36) 
+[LinkedIn Profile](https://www.linkedin.com/in/smitldesai4372/)
+
+* **Tanmay Chaudhari** - Developer and project contributor
+[GitHub Profile](https://github.com/TanmayChaudhari04) 
+[LinkedIn Profile](https://www.linkedin.com/in/tanmaychaudhari04/)
 
 ## Future Enhancements
 * Integrate payment gateways for secure transactions
