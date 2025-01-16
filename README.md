@@ -73,13 +73,13 @@ npm install
 ```
 restaurant-reservation-system/
 ├── src/
-│   ├── components/   # React components
-│   ├── server/       # Backend server files
-│   ├── assets/       # Static assets
-│   └── utils/        # Utility functions
-├── public/           # Public files
-├── package.json      # Node.js dependencies
-└── README.md         # Project documentation
+│   ├── components/     # React components
+│   ├── server/         # Backend server files
+│   └── assets/         # Images and static files
+├── public/            # Public assets
+├── database/          # Database schemas and migrations
+├── LICENSE
+└── README.md
 ```
 
 ## Video Demonstration
