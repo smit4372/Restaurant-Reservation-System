@@ -84,6 +84,7 @@ restaurant-reservation-system/
 
 ## Video Demonstration
 A video walkthrough of the project is available in the repository.
+[Video](https://github.com/smit4372/Restaurant-Reservation-System/blob/main/demonstration)
 
 ## Academic Integrity
 This project was created as part of an academic assignment. Any unauthorized copying, sharing, or use for cheating purposes is strictly prohibited. Please respect academic integrity.
