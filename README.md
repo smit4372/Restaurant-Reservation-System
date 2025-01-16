@@ -76,8 +76,9 @@ restaurant-reservation-system/
 │   ├── components/     # React components
 │   ├── server/         # Backend server files
 │   └── assets/         # Images and static files
-├── public/            # Public assets
-├── database/          # Database schemas and migrations
+├── public/             # Public assets
+├── database/           # Database schemas and migrations
+├── demonstration/      # Demonstration Video of the Web App
 ├── LICENSE
 └── README.md
 ```
